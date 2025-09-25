@@ -66,6 +66,11 @@ section ul li {
     margin-bottom: 6px;
 }
 
+section ul li:hover {
+    transition: 0.2s;
+    transform: scale(1.02);
+}
+
 .projeto-div {
     background-color: #f0f0f0c0;
     height: 100px;
